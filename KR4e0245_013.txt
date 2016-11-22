@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 陽明先生集要
 #+DATE: 2015-09-11 07:41:17.962961
-#+PROPERTY: ID KR4b0007
+#+PROPERTY: ID KR4e0245
 #+PROPERTY: BASEEDITION SBCK    
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 23
 #+PROPERTY: FILE SB04n0547-023陽明先生集要經濟編-目録.
-<pb:KR4b0007_SBCK_023-1a>¶
+<pb:KR4e0245_SBCK_023-1a>¶
 陽明先生集要經濟編目錄¶
 　卷七¶
 　平諸&KR0889;賊¶
