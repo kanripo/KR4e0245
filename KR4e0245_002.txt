@@ -4,9 +4,9 @@
 #+PROPERTY: ID KR4e0245
 #+PROPERTY: BASEEDITION SBCK    
 #+PROPERTY: WITNESS SBCK
-#+PROPERTY: JUAN 12
+#+PROPERTY: JUAN 2
 #+PROPERTY: FILE SB04n0545-012陽明先生集要文章編-序.
-<pb:KR4e0245_SBCK_012-1a>¶
+<pb:KR4e0245_SBCK_002-1a>¶
 　序¶
 　　羅履素詩集序¶
 　　兩浙觀風詩序¶
@@ -17,7 +17,7 @@
 　　贈林以吉歸省序¶
 　　送宗伯喬白巖序¶
 　　别張常甫序¶
-<pb:KR4e0245_SBCK_012-1b>¶
+<pb:KR4e0245_SBCK_002-1b>¶
 　　别湛甘泉序¶
 　　夀湯雲谷序¶
 　　文山别集序¶
@@ -28,7 +28,7 @@
 　　送南元善入　覲序¶
 　　别梁日孚序¶
 　　豫軒都先生八十夀封序¶
-<pb:KR4b0007_SBCK_012-2a>¶
+<pb:KR4b0007_SBCK_002-2a>¶
 　　送黄敬夫先生僉憲廣西序¶
 　　高平縣志序¶
-<pb:KR4b0007_SBCK_012-2b>¶
+<pb:KR4b0007_SBCK_002-2b>¶
